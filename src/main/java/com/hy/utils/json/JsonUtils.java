@@ -1,4 +1,4 @@
-package com.hy.utils;
+package com.hy.utils.json;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JavaType;
